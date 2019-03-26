@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import BandsContainer from './containers/BandsContainer';
+import ErrorBoundary from './containers/ErrorBoundary';
 
 class App extends Component {
   render() {
